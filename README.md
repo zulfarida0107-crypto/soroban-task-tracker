@@ -63,6 +63,8 @@ We envision a future where productivity tools are decentralized, secure, and ful
 ## Contract Details
 
 * Contract Address: CDJOFQTHQUQF4KWNOFAPPGF7PZ47UJ633DIRKY3EXBN565IAQC2IY76W
+<img width="1920" height="1080" alt="Screenshot (541)" src="https://github.com/user-attachments/assets/856853a5-b4ea-461f-aea8-9a711b15db27" />
+
   (Screenshot has been removed)
 
 ---
